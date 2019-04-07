@@ -2,6 +2,9 @@
 
 The purpose of this template is to provide a starting point for React Native projects that need bottom tabs navigation.
 
+
+![alt text](https://github.com/torizoemitchell/rn-with-react-navigation-template/blob/master/react-nav.gif)
+
 ### Versions
 
 * React native: 0.59.3
